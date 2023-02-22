@@ -11,3 +11,4 @@ export default class QuoteTotalSummary extends LightningElement {
         this.dispatchEvent(new CustomEvent('adjustbuttonclick'));
     }
 }
+ 
